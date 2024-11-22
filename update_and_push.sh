@@ -16,4 +16,4 @@ git commit -m "$1"
 git push
 
 # Confirmation message
-echo "Changes have been pushed successfully!"
+echo "COMPLEATED!!!!!"
